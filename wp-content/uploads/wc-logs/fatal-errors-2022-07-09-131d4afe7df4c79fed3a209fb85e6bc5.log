@@ -1,0 +1,8 @@
+2022-07-09T17:01:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\KJ-Cars\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\AbstractRenderableOwner.php on line 106
+
+2022-07-09T17:01:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\KJ-Cars\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\AbstractRenderableOwner.php on line 106
+
+2022-07-09T17:03:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\KJ-Cars\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-07-09T17:07:32+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\KJ-Cars\wp-admin\includes\update-core.php on line 1678
+
